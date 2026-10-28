@@ -1,0 +1,13 @@
+numpy>=1.24
+scipy>=1.10
+pandas>=2.0
+matplotlib>=3.7
+scikit-image>=0.21
+Pillow>=10.0
+torch>=2.0
+streamlit>=1.50
+reportlab>=4.0
+# Optional: only needed for REAL Sentinel-2 download (Live mode)
+pystac-client>=0.7
+planetary-computer>=1.0
+rasterio>=1.3
